@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, 👋
+I'm Saad 
 
-<!--
-**saadiftkhar/saadiftkhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a self-taught Android Developer from Pakistan
 
-Here are some ideas to get you started:
+## About me
+- 💼 Android Developer at [The Entertainer](https://www.theentertainerme.com/en-ae/dubai-n-emirates)
+- 💬 Ask me about anything [here](https://github.com/saadiftkhar/saadiftkhar/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨My Stats
+<a href="https://github.com/saadiftkhar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-saadiftkhar.vercel.app/api?username=saadiftkhar" />
+</a>
+<a href="https://github.com/saadiftkhar/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-saadiftkhar.vercel.app/api/top-langs?username=saadiftkhar&layout=compact&langs_count=8&card_width=320" />
+</a>
