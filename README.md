@@ -4,7 +4,7 @@ I am Saad Iftikhar.
 I am a self-taught Android Developer from Pakistan
 
 ## About me
-- 💼 Android Developer at [The Entertainer](https://www.theentertainerme.com/en-ae/dubai-n-emirates)
+- 💼 Android Developer at [CureMD](https://www.curemd.com/)
 - 💬 Ask me about anything [here](https://github.com/saadiftkhar/saadiftkhar/issues)
 
 ## ✨My Stats
