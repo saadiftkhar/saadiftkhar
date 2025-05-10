@@ -1,10 +1,8 @@
 ### Hi, 👋
-I am Saad Iftikhar.
-
-I am a self-taught Android Developer from Pakistan
+I'm Saad Iftikhar, a Senior Software Engineer based in Pakistan, specializing in building scalable and robust mobile applications.
 
 ## About me
-- 💼 Android Developer at [CureMD](https://www.curemd.com/)
+- 💼 Senior Software Engineer at [CureMD](https://www.curemd.com/)
 - 💬 Ask me about anything [here](https://github.com/saadiftkhar/saadiftkhar/issues)
 
 ## ✨My Stats
