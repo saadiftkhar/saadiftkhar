@@ -2,7 +2,7 @@
 I'm Saad Iftikhar, a Senior Software Engineer based in Pakistan, specializing in building scalable and robust mobile applications.
 
 ## About me
-- 💼 Senior Software Engineer at [CureMD](https://www.curemd.com/)
+- 💼 Senior Software Engineer
 - 💬 Ask me about anything [here](https://github.com/saadiftkhar/saadiftkhar/issues)
 
 ## ✨My Stats
